@@ -1,0 +1,16 @@
+.dropdown {
+    position: relative;
+    display: inline-block;
+
+}
+
+.dropdown select {
+    width: 350px;
+    padding: 50px;
+    border: 1px solid lightgray;
+    border-radius: 10px;
+    box-sizing: border-box;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    font-size: medium;
+}

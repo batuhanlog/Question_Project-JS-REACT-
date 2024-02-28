@@ -1,0 +1,103 @@
+object		{2}
+response_code	:	0
+	results		[10]
+	0		{6}
+type	:	multiple
+difficulty	:	easy
+category	:	Entertainment: Books
+question	:	Who wrote the young adult novel &quot;The Fault in Our Stars&quot;?
+correct_answer	:	John Green
+	incorrect_answers		[3]
+0	:	Stephenie Meyer
+1	:	Suzanne Collins
+2	:	Stephen Chbosky
+	1		{6}
+type	:	multiple
+difficulty	:	easy
+category	:	Sports
+question	:	Which two teams played in Super Bowl XLII?
+correct_answer	:	The New York Giants &amp; The New England Patriots
+	incorrect_answers		[3]
+0	:	The Green Bay Packers &amp; The Pittsburgh Steelers
+1	:	The Philadelphia Eagles &amp; The New England Patriots
+2	:	The Seattle Seahawks &amp; The Denver Broncos
+	2		{6}
+type	:	multiple
+difficulty	:	easy
+category	:	Entertainment: Cartoon &amp; Animations
+question	:	Which of these characters live in a pineapple under the sea in the cartoon &quot;SpongeBob SquarePants&quot;.
+correct_answer	:	SpongeBob SquarePants 
+	incorrect_answers		[3]
+0	:	Patrick Star
+1	:	Squidward Tentacles
+2	:	Mr. Krabs
+	3		{6}
+type	:	multiple
+difficulty	:	easy
+category	:	Entertainment: Video Games
+question	:	In &quot;Xenoblade Chronicles 2&quot;, Which party member cannot use normal blades?
+correct_answer	:	Tora
+	incorrect_answers		[3]
+0	:	Rex
+1	:	Zeke
+2	:	Nia
+	4		{6}
+type	:	multiple
+difficulty	:	easy
+category	:	Science: Computers
+question	:	In computing, what does LAN stand for?
+correct_answer	:	Local Area Network
+	incorrect_answers		[3]
+0	:	Long Antenna Node
+1	:	Light Access Node
+2	:	Land Address Navigation
+	5		{6}
+type	:	multiple
+difficulty	:	easy
+category	:	History
+question	:	Which one of these tanks was designed and operated by the United Kingdom?
+correct_answer	:	Tog II
+	incorrect_answers		[3]
+0	:	M4 Sherman
+1	:	Tiger H1
+2	:	T-34
+	6		{6}
+type	:	multiple
+difficulty	:	easy
+category	:	Entertainment: Music
+question	:	What Led Zeppelin album contains &quot;Stairway to Heaven&quot;?
+correct_answer	:	Led Zeppelin IV
+	incorrect_answers		[3]
+0	:	Houses of the Holy
+1	:	Physical Graffiti
+2	:	Led Zeppelin III
+	7		{6}
+type	:	multiple
+difficulty	:	easy
+category	:	History
+question	:	Which of the following African countries was most successful in resisting colonization?
+correct_answer	:	Ethiopia
+	incorrect_answers		[3]
+0	:	C&ocirc;te d&rsquo;Ivoire
+1	:	Congo
+2	:	Namibia
+	8		{6}
+type	:	multiple
+difficulty	:	easy
+category	:	Entertainment: Television
+question	:	In Game of Thrones, what continent lies across the Narrow Sea from Westeros?
+correct_answer	:	Essos
+	incorrect_answers		[3]
+0	:	Easteros
+1	:	Westereast
+2	:	Esuntos
+	9		{6}
+type	:	multiple
+difficulty	:	easy
+category	:	Entertainment: Comics
+question	:	In &quot;Homestuck&quot; what is Dave Strider&#039;s guardian?
+correct_answer	:	Bro
+	incorrect_answers		[3]
+0	:	Becquerel
+1	:	Doc Scratch
+2	:	Halley
